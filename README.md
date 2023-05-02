@@ -1,4 +1,4 @@
-#The Torment Mod
+# The Torment Mod
 
 A mod adding an corruption alt - The Torment.
-by Vikri & Zerokk
+<h5>by Vikri & Zerokk</h5>
