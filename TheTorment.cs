@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 
 namespace TheTorment;
 
-public class TheTorment : Mod {
+public sealed class TheTorment : Mod {
     public const string PATHTO_GRAPHICSFOLDER = $"{nameof(TheTorment)}/Source/Graphics";
 
     internal static TheTorment? _instance;
